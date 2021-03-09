@@ -1,3 +1,4 @@
+# 사용자로부터 단어를 입력받아 판별하는 프로그램
 # ord(alp) % 96 = number of alp
 word = input("Enter the English word : ")
 sum = 0
